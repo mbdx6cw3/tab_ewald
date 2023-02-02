@@ -1,0 +1,53 @@
+ Input parameters read -----------------------------
+ ---------------------------------------------------
+ Adsorbent parameters
+
+ Oxygen atoms: 
+ Charge =  -0.62900000000000000     
+
+ Silicon atoms: 
+ Charge =    1.2730930000000000     
+
+ Silanol oxygen atoms: 
+ Charge =  -0.53300000000000003     
+
+ Nitrogen atoms: 
+ Charge =    0.0000000000000000     
+
+ EDA C atoms: 
+ Charge =    0.0000000000000000     
+
+ Tether C atoms: 
+ Charge =    0.0000000000000000     
+
+ Nitrogen hydrogen atoms: 
+ Charge =    0.0000000000000000     
+
+ Carbon hydrogen atoms: 
+ Charge =    0.0000000000000000     
+ ---------------------------------------------------
+ ---------------------------------------------------
+ CONFIG file read ----------------------------------
+ Total number of adsorbent atoms =         4864
+ Volume of box =    137356.97404836779      ang**3
+ Total adsorbent charge =  -4.22999976808335898E-004
+ ---------------------------------------------------
+
+ --------------------------------------------------
+ Ewald Parameters ---------------------------------
+ Reciprocal Space Cutoff =   4.3580913119000089     
+ Real Space Cutoff =   15.000000000000000     
+ kvectors in x,y,z =          23          13          15
+ Gaussian width =  1.00000000000000002E-003
+
+ -------------------------------------------------
+ Calculating Ewald Sum ---------------------------
+
+ System not neutral - use neutralising correction
+ Total Ewald Sum               = -3.09431324888605799E-015 J
+ Real Space Contribution       = -3.09043167191995028E-015 J
+ Reciprocal Space Contribution =   0.0000000000000000      J
+ Self-Interaction Correction   = -3.88169241736263140E-018 J
+ Fuchs Correction              = -4.71982086938656019E-024 J
+
+ -------------------------------------------------
